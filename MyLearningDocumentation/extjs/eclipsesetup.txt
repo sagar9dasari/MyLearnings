@@ -1,0 +1,9 @@
+
+Click on server for configuration
+and click on modules and click on external web module as below
+Path:				/static/extjs
+DocumentBase: 		E:\UI\ExtJSAtoZ\software\ext
+
+And in index.html file add the tags as below
+<link href="/static/extjs/packages/ext-theme-classic/build/resources/ext-theme-classic-all.css" rel="stylesheet" />
+<script type="text/javascript" src="/static/extjs/build/ext-all.js"></script>
