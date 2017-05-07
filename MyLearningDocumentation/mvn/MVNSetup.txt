@@ -1,0 +1,17 @@
+Download maven from apache official site "https://maven.apache.org/"
+Ensure JAVA_HOME environment variable is set and points to your JDK installation
+1> Right Click on My Comuter ICON => Select properties => Advanced system settings => Advanced => Environment variables =>
+	Create below System variable
+	JAVA_HOME=C:\Program Files\Java\jdk1.8.0_121
+2> Create  below User variable
+PATH=%JAVA_HOME%\bin
+
+Extract distribution archive in any directory
+And set the below Paths as sescribed above
+1>	Create below System variable
+	M2_HOME=C:\Program Files\Apache Software Foundation\apache-maven-3.3.9
+2>	Create  below User variable
+	PATH=%JAVA_HOME%\bin;.;%M2_HOME%\bin;.;
+	
+Refer below page for detailed info
+https://www.mkyong.com/java/how-to-set-java_home-on-windows-10/
