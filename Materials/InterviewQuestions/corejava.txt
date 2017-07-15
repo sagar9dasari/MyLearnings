@@ -1,0 +1,8 @@
+************************************************************************************************************************************************
+=> Difference between run() and start() methods in thread class.
+=> String reverse program in java
+=> In project when we will use checked and unchecked custom/userDefined exceptions
+=> Difference between final finally and finalize method in java
+=> what are the place we can use final keyword
+=> Difference between HashMap and HashTable
+=> Difference between ConcurrentHashMap and HashTable
